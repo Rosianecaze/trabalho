@@ -1,0 +1,18 @@
+:root{
+  --color-bg:#F5F4F0;
+  --color-border-primary:#D9D9D9;
+  --text-primary:#1B1B1B;
+  --text-secondary:#333333;
+  --text-tertiary:#696969;
+  --text-headline:#E1624F;
+  --color-accent-blue:#0C51A7;
+  --color-accent-orange:#E95E10;
+  --color-accent-pink:#E5245E;
+  --color-accent-purple:#591B98;
+
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
